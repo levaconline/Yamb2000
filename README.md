@@ -1,2 +1,2 @@
 # Yamb2000
-Windows app made in VS
+Windows app made in VB6 - non adult version.
